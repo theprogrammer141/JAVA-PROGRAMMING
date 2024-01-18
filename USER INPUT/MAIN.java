@@ -17,5 +17,6 @@ public class MAIN {
         String food=scanner.nextLine();
         System.out.println("YOUR FAVOURITE FOOD IS:"+food);
         
+        scanner.close();
     }
 }
