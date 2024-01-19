@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA-PROGRAMMING.iml" filepath="$PROJECT_DIR$/JAVA-PROGRAMMING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LOGICAL OPERATOR-OR/LOGICAL OPERATOR-OR.iml" filepath="$PROJECT_DIR$/LOGICAL OPERATOR-OR/LOGICAL OPERATOR-OR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RANDOM NUMBERS/RANDOM NUMBERS.iml" filepath="$PROJECT_DIR$/RANDOM NUMBERS/RANDOM NUMBERS.iml" />
+    </modules>
+  </component>
+</project>
